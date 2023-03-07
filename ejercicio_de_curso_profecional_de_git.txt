@@ -5,8 +5,12 @@ hola muy buenas aqui vegeta 7777 desde un gamplay directo de minecraftt
 
 cambio 2
 
+<<<<<<< HEAD
 cambio 3
+=======
 
+cambio en cabecera
+>>>>>>> cabecera
 
-
+cambio 2 en cabecera
 
