@@ -20,6 +20,10 @@ cambios con ssh
 
 
 
+<<<<<<< HEAD
+=======
+cambio de header 2.0
+>>>>>>> header
 
 
 
